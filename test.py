@@ -1,1 +1,1 @@
-this python flasked app
+print("Wassup Buddy!! v9")
